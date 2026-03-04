@@ -23,4 +23,5 @@ To address this methodological gap, we plan to use WEKA to systematically evalua
 
 
 
-Vishakh
+Vishakh:
+Exploratory data analysis will be conducted to examine the distribution and relationships of molecular descriptors across senolytic and non-senolytic compounds. Visualizations such as correlation heatmaps and class distribution plots will be used to identify patterns in the data and inform the modeling approaches used by the team.
