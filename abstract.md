@@ -1,7 +1,7 @@
 ## Abstract
 
 
-Intro? 
+Intro?  
 Recent work in the senolytics field has demonstrated the potential of machine learning to accelerate the discovery of small‑molecule senolytic compounds. In one of the studies, researchers generated more than 200 physicochemical descriptors from SMILES strings to perform feature selection, and trained several classification models to identify candidate senolytics. In another interesting work, they trained graph neural networks based on SMILES strings and screened close to a million compounds for potential senolytics. These two studies are the data sources and form the ideological basis for the present project.
 
 
