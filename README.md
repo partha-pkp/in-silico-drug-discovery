@@ -1,6 +1,9 @@
 # _In silico_ drug discovery
 Group Project for the Spring 2026 course CSCI 4380/6380 
 
+## Tracking Updates  
+- [Old-Gdocs-file](https://docs.google.com/document/d/1SJ34sdqYb3j9tW84lOgxjIvDBoXWM0e6B4dD5ZjGPlQ/edit?usp=sharing)
+
 ## Resources
 ### Research Papers
 - [Discovery of senolytics using machine learning](https://www.nature.com/articles/s41467-023-39120-1)
